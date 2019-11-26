@@ -3,6 +3,7 @@ mockendpointmtn/mockendpointmtn/SubitoToken.class
 mockendpointmtn/mockendpointmtn/Eligibility.class
 mockendpointmtn/mockendpointmtn/Payment.class
 mockendpointmtn/mockendpointmtn/GoogleAuth.class
+mockendpointmtn/mockendpointmtn/auth.class
 mockendpointmtn/mockendpointmtn/SubitoSubscription.class
 mockendpointmtn/mockendpointmtn/SubitoAuth.class
 mockendpointmtn/mockendpointmtn/SpringBootApp.class
